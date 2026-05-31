@@ -2,3 +2,26 @@ baseURL = 'https://pablorpalenzuela.github.io/'
 locale = 'es'
 title = 'Pablo Rodríguez Palenzuela'
 theme = 'PaperMod'
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Libros"
+    url = "/libros/"
+    weight = 20
+  [[menu.main]]
+    name = "Artículos"
+    url = "/articulos/"
+    weight = 30
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 40
+
+[params]
+  [params.homeInfoParams]
+    Title = "Pablo R. Palenzuela"
+    Content = "Aquí va un par de líneas de bienvenida."
