@@ -23,5 +23,7 @@ theme = 'PaperMod'
 
 [params]
   [params.homeInfoParams]
-    Title = "Pablo R. Palenzuela"
-    Content = "Aquí va un par de líneas de bienvenida."
+    Title = "Entre la biología y las letras"
+    Content = """
+Soy Pablo Rodríguez Palenzuela. Investigo, doy clase y escribo sobre ciencia para quien tenga curiosidad. Llevo años moviéndome entre la biología y las humanidades, y este sitio recoge las dos cosas: mis libros, los artículos que voy publicando y un blog donde escribo con más libertad. Pasa y mira lo que quieras.
+"""
